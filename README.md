@@ -22,7 +22,7 @@ Developed lightweight machine learning models for Speech Emotion Recognition (SE
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/kaaaaate009/speech-emotion-recognition-models.git`
+1. Clone the repository: `git clone https://github.com/swarajdhondge/speech-emotion-recognition-models.git`
 2. Navigate to the project directory: `cd speech-emotion-recognition-models`
 3. Open and explore the Jupyter Notebook files to understand the machine learning models and data processing techniques used.
 
@@ -42,4 +42,3 @@ Gaurav Sahu. (2019). Multimodal Speech Emotion Recognition and Ambiguity Resolut
 
 For any inquiries or suggestions, feel free to reach out to [Swaraj Dhondge](mailto:swarajdhondge@gmail.com).
 
-Project Link: [https://github.com/kaaaaate009/speech-emotion-recognition-models](https://github.com/kaaaaate009/speech-emotion-recognition-models)
